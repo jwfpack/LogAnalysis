@@ -1,0 +1,13 @@
+{
+    "name": "jwf/loganalysis",
+    "description": "日志分析",
+    "require": {
+        "maiscrm/aliyun-log-php-sdk": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "xiaojia",
+            "email": "jiaweifeng@futurelab.tv"
+        }
+    ]
+}
